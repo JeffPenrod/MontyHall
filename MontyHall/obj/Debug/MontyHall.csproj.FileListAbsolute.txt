@@ -1,0 +1,6 @@
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\bin\Debug\MontyHall.exe.config
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\bin\Debug\MontyHall.exe
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\obj\Debug\MontyHall.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\obj\Debug\MontyHall.exe
+C:\Users\Administrator\Dropbox\My Documents\MontyHall\MontyHall\obj\Debug\MontyHall.pdb
